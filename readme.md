@@ -4,7 +4,7 @@
 
 Especially useful with CLI tools when you don't directly control the output.
 
-![](screenshot.png)
+![](screen-shot.png)
 
 
 ## Install
